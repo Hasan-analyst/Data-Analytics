@@ -1,0 +1,16 @@
+Category,name,mrp,discountPercent,availableQuantity,discountedSellingPrice,weightInGms,outOfStock,quantity
+Fruits & Vegetables,Onion,2500,16,3,2100,1000,False,1
+Fruits & Vegetables,Tomato Hybrid,4200,16,3,3500,1000,False,1
+Fruits & Vegetables,Tender Coconut,5100,15,3,4300,58,False,1
+Fruits & Vegetables,Coriander Leaves,2000,15,3,1700,100,False,100
+Fruits & Vegetables,Ladies Finger,1400,14,3,1200,250,False,250
+Fruits & Vegetables,Potato,3500,17,3,2900,1000,False,1
+Fruits & Vegetables,Lemon,7500,16,3,6300,200,False,200
+Fruits & Vegetables,Watermelon,5800,15,3,4900,58,False,1
+Fruits & Vegetables,Capsicum Green,2300,17,3,1900,250,False,250
+Fruits & Vegetables,Chilli Green,1900,15,3,1600,100,False,100
+Fruits & Vegetables,Banana Robusta,2900,17,3,2400,348,False,6
+Fruits & Vegetables,Garlic Indian,1100,18,3,900,100,False,100
+Fruits & Vegetables,Cauliflower,2600,15,3,2200,58,False,1
+Fruits & Vegetables,Ginger,1400,14,3,1200,200,False,200
+Fruits & Vegetables,Spinach,1900,15,3,1600,250,False,250
